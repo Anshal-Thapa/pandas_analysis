@@ -1,6 +1,3 @@
-import time
-
-import pandas as pd
 import requests
 
 BASE_URL = "https://pokeapi.co/api/v2/pokemon/"
